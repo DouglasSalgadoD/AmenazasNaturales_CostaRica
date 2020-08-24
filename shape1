@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cd2334",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "localidad": "El Invu",
+        "Evento": "Inundación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.33869361877441,
+          9.52220557466749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cd2334",
+        "marker-size": "medium",
+        "localidad": "Bandera",
+        "Evento": "Inundación",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38203811645508,
+          9.513063460198406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cd2334",
+        "marker-size": "medium",
+        "localidad": "La Palma",
+        "Evento": "Inundación",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37637329101562,
+          9.531474413146515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "circle",
+        "marker-color": "#cd2334",
+        "marker-size": "medium",
+        "localidad": "Jardines Pacífico",
+        "Evento": "Inundación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.43422317504881,
+          9.523559941192152
+        ]
+      }
+    }
+  ]
+}
