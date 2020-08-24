@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f06419",
+        "marker-size": "medium",
+        "marker-symbol": "commercial",
+        "nombre": "Pizza Lonchos",
+        "ID": 1,
+        "especialidad": "pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.14978027343749,
+          10.0044483875824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f06419",
+        "marker-size": "medium",
+        "marker-symbol": "commercial",
+        "nombre": "Restauran Peruano",
+        "ID": 2,
+        "especialidad": "mariscos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.14995729923248,
+          10.002884660772466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f06419",
+        "marker-size": "medium",
+        "marker-symbol": "commercial",
+        "nombre": "Pollo Sus Amigos",
+        "especialidad": "Pollo Frito",
+        "ID": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1524463891983,
+          10.004495933212072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "ID": 4,
+        "marker-color": "#f06419",
+        "marker-symbol": "commercial",
+        "nombre": "Caribe",
+        "especialidad": "Caribeña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15277361869812,
+          10.005077045901192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f06419",
+        "marker-size": "medium",
+        "marker-symbol": "commercial",
+        "nombre": "Pollo",
+        "ID": 5,
+        "especialidad": "Pollo frito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15354073047638,
+          10.004802338214098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f06419",
+        "marker-size": "medium",
+        "marker-symbol": "commercial",
+        "nombre": "Hamburguesas",
+        "ID": 6,
+        "especialidad": "Hamburguesas y Pollo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15378212928772,
+          10.003465776344303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f06419",
+        "ID": 7,
+        "marker-size": "medium",
+        "marker-symbol": "commercial",
+        "nombre": "Hamburguesas",
+        "especialidad": "Hamburguesas, empanadas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15382504463196,
+          10.002361655868986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f06419",
+        "marker-size": "medium",
+        "marker-symbol": "commercial",
+        "nombre": "Ying Yong",
+        "ID": 8,
+        "especialidad": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15472626686096,
+          10.001194136834615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "commercial",
+        "nombre": "Chino",
+        "ID": 9,
+        "especialidad": "China",
+        "marker-color": "#f06419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15436148643494,
+          9.999086252478195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f06419",
+        "marker-size": "medium",
+        "marker-symbol": "commecial",
+        "nombre": "Carniceria",
+        "ID": 10,
+        "especialidad": "Carniceria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15337979793549,
+          10.001209985537372
+        ]
+      }
+    }
+  ]
+}
